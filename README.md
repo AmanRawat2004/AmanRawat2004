@@ -1,4 +1,4 @@
-# 💫 About Me:
+<p align="center"># 💫 About Me:</p>
 <p align="center">I'm a 3rd year student pursuing Bachelors in Computer Science 🎓 from Lovely Professional University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.</p>
 
 <!--
